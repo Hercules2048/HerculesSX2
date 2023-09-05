@@ -29,7 +29,7 @@ Build steps:
 
 1. Clone repo
     ```bash
-    git clone https://github.com/AetherSX2/AetherSX2.git
+    git clone https://github.com/Hercules2048/HerculesSX2.git
     cd AetherSX2
     ```
 2. Create a build directory for the native library and change into it:
