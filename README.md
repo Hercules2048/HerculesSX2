@@ -1,24 +1,6 @@
 # AetherSX2
 
-### NEW Updates
-
-AetherSX2 development is indefinitely suspended.
-Due to neverending impersonating, complaints, demands, and now death threats, I'm done.
-
-You can still download/use the app and it will continue to work for the forseeable future.
-
-AetherSX2 was always meant to be a fun hobby for me, not profit driven. It doesn't make sense to continue working on a hobby which isn't fun anymore.
-
-Stay safe out there, and watch out for scammers, there seems to be a lot of them.
-
-(e.g. there's multiple people claiming to represent AetherSX2 on various social media - they are not legit)
-
-Thanks to everyone who wasn't a d*ck for the last year.
-
-Current build downloads are still available at https://www.aethersx2.com/archive/ - please follow good security hygiene and don't install APKs from random sources.
-
-Update 2023/01/10: I no longer have any active online presence in any community. Anyone claiming to be Tahlreth, or represent AetherSX2, is impersonating and scamming you.
-I hope the threats and hate will stop now.
+This is a continuation of AetherSX2, which is based on PCSX2. The dev behind AetherSX2 left the scene in Febuary and attempted to delete all of the code on his github. This repository aims to host the existing source code for others to modify and update. I do not claim to have made any of this. Credit belongs to Tahlrath and the PCSX2 dev team.
 
 ---
 
